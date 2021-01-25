@@ -1,0 +1,14 @@
+/home/safia/kde/src/helloworld/build/CMakeFiles/install/local.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/edit_cache.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/test.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/helloworld.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/KF5WidgetsAddons_QCH.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/install/strip.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/KF5I18n_QCH.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/install.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/list_install_components.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/rebuild_cache.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/KF5CoreAddons_QCH.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/fetch-translations.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/uninstall.dir
+/home/safia/kde/src/helloworld/build/CMakeFiles/helloworld_autogen.dir
